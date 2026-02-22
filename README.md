@@ -1,4 +1,3 @@
-# Hilali Marwa | Full Stack Developer
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Hilali+Marwa+%F0%9F%91%8B;Full+Stack+Developer;Building+Smart+Web+Solutions" alt="Typing SVG" />

@@ -47,15 +47,22 @@ I create elegant, functional, and user-friendly web solutions.
 </div>
 
 ---
+## 📩 Contact Me
 
 <div align="center">
 
-## 📩 Contact
+Ready to collaborate? Reach out and let's build something amazing together!  
 
-Ready to collaborate? Reach out!  
+<a href="mailto:hilalimarwa007@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-hilalimarwa007@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
- Email: [hilalimarwa007@gmail.com](mailto:hilalimarwa007@gmail.com)  
- LinkedIn: [Marwa Hilali](https://www.linkedin.com/in/marwa-hilali)  
- GitHub: [Hilali-Marwa017](https://github.com/hilali-marwa017)
+<a href="https://www.linkedin.com/in/marwa-hilali" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-Marwa_Hilali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/hilali-marwa017" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/GitHub-Hilali_Marwa017-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>

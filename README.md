@@ -1,14 +1,10 @@
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&width=500&lines=Hi,+I'm+Hilali+Marwa" alt="Typing SVG - Marwa" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&width=500&lines=Full+Stack+Developer" alt="Typing SVG - Full Stack" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&width=500&lines=Building+Smart+Web+Solutions" alt="Typing SVG - Web Solutions" />
-
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Hilali+Marwa+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
+ 
 </div>
----
+
 
 <div align="center">
 

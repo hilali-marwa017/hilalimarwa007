@@ -1,4 +1,4 @@
-# Hilali Marwa | Full Stack Developer P
+# Hilali Marwa | Full Stack Developer
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Hilali+Marwa+%F0%9F%91%8B;Full+Stack+Developer;Building+Smart+Web+Solutions" alt="Typing SVG" />
@@ -6,18 +6,23 @@
 
 ---
 
-## 💼 About Me
+<div align="center">
 
-I'm Hilali Marwa, a passionate Full Stack Developer based in Casablanca, Morocco.  
+## 💼 About Me
+I'm a passionate Full Stack Developer based in Casablanca, Morocco.  
 I create elegant, functional, and user-friendly web solutions.  
 
 📍 Casablanca, Morocco | 💻 Full Stack Developer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwa_Hilali-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-hilali)  
 [![GitHub](https://img.shields.io/badge/GitHub-Hilali_Marwa017-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017)  
-[![Email](https://img.shields.io/badge/Email-hilalimarwa007@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilalimarwa007@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-hilalimarwa007@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilalimarwa007@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Skills
 
@@ -39,7 +44,31 @@ I create elegant, functional, and user-friendly web solutions.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
+
+## 🏆 Projects
+
+### Restaurant Management
+React.js, Bootstrap, Axios, REST API  
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/restaurant-management)
+
+### Portfolio Website
+HTML5, CSS3, Bootstrap  
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/portfolio)
+
+### Task Manager
+HTML5, JavaScript, Bootstrap  
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/task-manager)
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📩 Contact
 
@@ -48,3 +77,5 @@ Ready to collaborate? Reach out!
 - Email: [hilalimarwa007@gmail.com](mailto:hilalimarwa007@gmail.com)  
 - LinkedIn: [Marwa Hilali](https://www.linkedin.com/in/marwa-hilali)  
 - GitHub: [Hilali-Marwa017](https://github.com/hilali-marwa017)
+
+</div>

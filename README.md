@@ -50,32 +50,12 @@ I create elegant, functional, and user-friendly web solutions.
 
 <div align="center">
 
-## 🏆 Projects
-
-### Restaurant Management
-React.js, Bootstrap, Axios, REST API  
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/restaurant-management)
-
-### Portfolio Website
-HTML5, CSS3, Bootstrap  
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/portfolio)
-
-### Task Manager
-HTML5, JavaScript, Bootstrap  
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/task-manager)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📩 Contact
 
 Ready to collaborate? Reach out!  
 
-- Email: [hilalimarwa007@gmail.com](mailto:hilalimarwa007@gmail.com)  
-- LinkedIn: [Marwa Hilali](https://www.linkedin.com/in/marwa-hilali)  
-- GitHub: [Hilali-Marwa017](https://github.com/hilali-marwa017)
+ Email: [hilalimarwa007@gmail.com](mailto:hilalimarwa007@gmail.com)  
+ LinkedIn: [Marwa Hilali](https://www.linkedin.com/in/marwa-hilali)  
+ GitHub: [Hilali-Marwa017](https://github.com/hilali-marwa017)
 
 </div>

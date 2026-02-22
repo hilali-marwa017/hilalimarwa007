@@ -1,90 +1,78 @@
+# Hilali Marwa | Full Stack Developer Portfolio
+
 <div align="center">
-```
-██╗  ██╗██╗██╗      █████╗ ██╗     ██╗
-██║  ██║██║██║     ██╔══██╗██║     ██║
-███████║██║██║     ███████║██║     ██║
-██╔══██║██║██║     ██╔══██║██║     ██║
-██║  ██║██║███████╗██║  ██║███████╗██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝
-```
-
-# Hilali Marwa
-### Full Stack Developer
-
-*Crafting elegant digital solutions, one line at a time.*
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React;PHP+%7C+Laravel+%7C+MySQL;Git+%7C+GitHub+%7C+Jira+%7C+SonarQube;Building+clean+%26+impactful+web+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Hilali+Marwa+%F0%9F%91%8B;Full+Stack+Developer;Building+Smart+Web+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👩‍💻 whoami
-```bash
-$ cat about.txt
+## 💼 About Me
 
-Name     : Hilali Marwa
-Role     : Full Stack Developer
-Location : Casablanca, Morocco
-Focus    : Web Development & Clean Code
-```
+I'm Hilali Marwa, a passionate Full Stack Developer based in Casablanca, Morocco.  
+I enjoy creating elegant, functional, and user-friendly web solutions.  
 
----
+📍 Casablanca, Morocco | 💻 Full Stack Developer  
 
-## 🛠️ Tech Stack
-```yaml
-Frontend:
-  - HTML5, CSS3, JavaScript
-  - React.js, Bootstrap
-
-Backend:
-  - PHP, Laravel
-
-Database:
-  - MySQL
-
-Tools:
-  - Git, GitHub, Jira, SonarQube
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwa_Hilali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-hilali)  
+[![GitHub](https://img.shields.io/badge/GitHub-Hilali-Marwa017-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017)  
+[![Email](https://img.shields.io/badge/Email-hilalimarwa007@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hilalimarwa007@gmail.com)  
 
 ---
 
-## 🚀 Projects
+## 🛠️ Skills
 
-| Project | Stack | Link |
-|---------|-------|------|
-| 🍽️ Restaurant Management | React · Bootstrap · Axios · REST API | [View Code](https://github.com/hilalimarwa007) |
-| 💼 Portfolio | HTML · CSS · Bootstrap | [View Code](https://github.com/hilalimarwa007) |
-| ✅ Task Manager | JavaScript · Local Storage · Bootstrap | [View Code](https://github.com/hilalimarwa007) |
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### Back-End
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 Contact
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-hilalimarwa007@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hilalimarwa007@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hilali_Marwa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-hilali)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-hilalimarwa017-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hilalimarwa017)
-
-</div>
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
 
-<div align="center">
+## 🏆 Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilalimarwa007&show_icons=true&theme=default&hide_border=true&title_color=111111&icon_color=111111&text_color=444444)
+### Restaurant Management
+React.js, Bootstrap, Axios, REST API  
+[View Code](https://github.com/hilali-marwa017/restaurant-management)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalimarwa007&layout=compact&hide_border=true&title_color=111111&text_color=444444)
-
-</div>
+![Restaurant Management](https://via.placeholder.com/400x200?text=Restaurant+Management)
 
 ---
 
-<div align="center">
-  <sub>© 2026 Hilali Marwa — Built with ❤️ & clean code</sub>
-</div>
+### Portfolio
+HTML5, CSS3, Bootstrap  
+[View Code](#)  
+
+![Portfolio](https://via.placeholder.com/400x200?text=Portfolio)
+
+---
+
+### Task Manager
+HTML5, JavaScript, Bootstrap  
+[View Code](#)  
+
+![Task Manager](https://via.placeholder.com/400x200?text=Task+Manager)
+
+---
+
+## 📩 Contact
+
+Ready to collaborate? Reach out!  
+
+- Email: [hilalimarwa007@gmail.com](mailto:hilalimarwa007@gmail.com)  
+- LinkedIn: [Marwa Hilali](https://www.linkedin.com/in/marwa-hilali)  
+- GitHub: [Hilali-Marwa017](https://github.com/hilali-marwa017)  
+
+---

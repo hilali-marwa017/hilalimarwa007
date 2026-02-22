@@ -2,11 +2,12 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&width=500&lines=Hi,+I'm+Hilali+Marwa" alt="Typing SVG - Marwa" />
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&width=500&lines=Full+Stack+Developer" alt="Typing SVG - Full Stack" />
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&width=500&lines=Building+Smart+Web+Solutions" alt="Typing SVG - Web Solutions" />
 
 </div>
-
 ---
 
 <div align="center">
